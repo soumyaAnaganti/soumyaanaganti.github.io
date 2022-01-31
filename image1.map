@@ -1,0 +1,15 @@
+<img src="[image1] (imported)" width="1500" height="346" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:akhil -->
+<area shape="rect" coords="3,0,209,246" target="audio" href="8d82b5_Christmas_Jingling_Guitar_Bells_Sound_Effect.mp3" />
+<area shape="rect" coords="217,6,447,253" target="audio" href="8d82b5_Drum_Roll_Sound_FX.mp3" />
+<area shape="rect" coords="455,12,678,255" target="audio" href="8d82b5_Sad_Tuba_Sound_Effect.mp3" />
+<area shape="rect" coords="687,6,996,254" target="audio" href="8d82b5_Accordion_Sound_FX.mp3" />
+<area shape="rect" coords="1001,3,1237,257" target="audio" href="8d82b5_Cymbal_Large_Crash_Sound_FX.mp3" />
+<area shape="rect" coords="1253,5,1496,260" target="audio" href="8d82b5_Creepy_Piano_Sound_Effect.mp3" />
+</map>
